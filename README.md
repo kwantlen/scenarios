@@ -8,4 +8,4 @@ The text included in this repository is licensed under an Attribution-NonCommerc
 Contributing, Versioning, Reimagining
 -------------------------------------
 
-Feel free to create your own versions of these scenarios by forking, updating, and send pull requests. For more information about these processes and methodologies, consult https://help.github.com/articles/fork-a-repo.
+Feel free to create your own versions of these scenarios by forking, updating, and sending pull requests. For more information about these processes and methodologies, consult https://help.github.com/articles/fork-a-repo.
