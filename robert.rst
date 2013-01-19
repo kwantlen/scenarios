@@ -1,4 +1,6 @@
 Not edited yet.
+Niche education
+User pays/global
 
 In 2042 the world is faced with increasingly global pressure in terms of business competition, and learners are demanding higher-tech learning solutions. The landscape of higher education has changed dramatically since 2012. Given various free trade agreements, the stronger role of the IMF and the World Bank, in 2035 a treaty was negotiated between multiple countries to create a level playing field in terms of publically funded post-secondary education. In short, countries that are signatories to the Equitable Acquisition to Education Treaty (EAET), including Canada, the US, the UK, Australia, China and India, have agreed that post-secondary education will not be funded from tax dollars. 
 
