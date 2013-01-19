@@ -27,7 +27,14 @@ Juliana sends a quick note to Tagomi, her project partner, to remind her about t
 
 Four interconnected careers in business and ecology have unfolded in her life, and each step along these paths has brought her closer to herself, her family, and to the society in which she lives. Still, there’s much more to do, much more to see. Her boys, Dean and Josh, are now well along their own paths, making their way through service learning projects, building careers in design and urban planning, soaking up experiences the way that shore plants at Boundary Bay flourish with the incoming tide. Juliana pauses, remembers her Dad’s generation – careers of exigency, economic urgency, necessary but not impassioned choices – and feels grateful that at long last humanity seems to have been smart enough to get some things right. Whatever turns her life takes, wherever she finds herself, she will be the author of that journey. Her accomplishments – and indeed, her failures too – will be hers alone to shape and to hold.
 
-She taps the timeline on the wall display, drags a waypoint to it from the map, and places her order at the café. If she gets moving, she can be there in 20 minutes.
+She notices an item on the news scroll: today is the hundredth annniversary of the Pearl Harbor attack. She taps the item, scans the details, and pauses at a quotation that catches her eye. It’s from an old book about the attack, written by a scholar now long dead. As Juliana reads, she finds in the quotation a kind of wisdom. It says:
+
+     “There is a tendency in our planning to confuse the unfamiliar with the improbable. 
+     The contingency we have not considered seriously looks strange; 
+     what looks strange is thought improbable; 
+     what is improbable need not be considered seriously.”
+
+Juliana taps the timeline on the wall display, drags a waypoint to it from the map, and places her order at the café. Thinking of the unfamiliar and the improbable, she gets moving, hoping she can make it to the café in time to meet Tagomi for breakfast.
 
 
 
