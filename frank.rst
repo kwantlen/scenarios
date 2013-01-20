@@ -36,3 +36,12 @@ Frank asks Juliana if some of the virtual tutors will be at convocation. She’s
      what is improbable need not be considered seriously.”
 
 Frank is not sure how the next phase of his life will unfold. He doesn’t know how he will pay off his educational debt, and he isn’t sure he wants to work for Cinnadella for the rest of his life. But at least he has choices, and a curious temperament, and after tomorrow a credential that will set him on his way. He lies back, gazes at the ceiling, and wonders about his future.
+
+
+Core Concepts for This Scenario
+-------------------------------
+
+Student as student (traditional role)
+Economic model of education (user pays)
+Local emphasis for educational services
+

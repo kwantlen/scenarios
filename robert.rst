@@ -1,6 +1,4 @@
 Not edited yet.
-Niche education
-User pays/global
 
 In 2042 the world is faced with increasingly global pressure in terms of business competition, and learners are demanding higher-tech learning solutions. The landscape of higher education has changed dramatically since 2012. Given various free trade agreements, the stronger role of the IMF and the World Bank, in 2035 a treaty was negotiated between multiple countries to create a level playing field in terms of publically funded post-secondary education. In short, countries that are signatories to the Equitable Acquisition to Education Treaty (EAET), including Canada, the US, the UK, Australia, China and India, have agreed that post-secondary education will not be funded from tax dollars. 
 
@@ -22,3 +20,12 @@ Traditional liberal arts universities do exist but these are for only the most e
  Robert goes online and connects with Iman who is a sales representative/student recruiter for Global Education Systems (GES). GES boasts more than 200 universities as clients. The tagline of GES is, “your educational match is just around the world”. Iman comes into Robert’s living room as a hologram and begins to listen to Robert’s interests. Robert, whose mother works in technical support at the online Warsaw Today magazine, has an interest in social justice issues. Robert has received a generous bursary from Warsaw Today that he can ‘spend’ at any global university he would like, though Warsaw Today does reserve the right to approve his choice. Robert thinks that social justice makes sense to his. He’s luckier than many of his friends because with his bursary, he can take some time to explore possible future careers.
  Iman tells Robert about the International Social Justice program that operates between a number of advanced institutions of higher learning in the Northern Hemisphere. Trinity College in Dublin, Ireland and the Canadian College Consortium are part of this initiative. 
  Robert is very interested and Iman connects Robert to an online faculty facilitator who tells Robert more about the program. Robert signs up for a 3-month weekly hologram seminar where he will meet with a group of 8 students, each from a different country around the world. The goal of the seminar is to discuss the Social Justice Program and to determine Robert’s interest and capacity for enrolling in this 3-year program.
+
+
+Core Concepts for This Scenario
+-------------------------------
+
+Student as client
+Hybrid model of educational funding (niche programs)
+Global emphasis for educational services
+

@@ -41,4 +41,13 @@ Tagomi reflects on her interaction yesterday with President Bhatti. Although she
 
 As Tagomi reflected on these words, trying to figure out what they meant – are they a message, a puzzle, a directive? – Robert noticed a chess board near the window. He gazed at the pieces for a moment, then offered a move. President Bhatti quickly offered a counter-move, and the gathered party joined the game. It was fun for Tagomi, a sign of what might her future might hold, a talisman. She wants more of this – more of the unfamiliar and the improbable.
 
-But right now she needs to get moving. She has only an hour to finish preparing her presentation on landfill efficiency. At four AM local time the virtual group will gather and the employee presentations will begin. Tagomi needs to make some final edits. She needs this presentation to stand out. Her professor, Rudolf Cho, will attend the virtual classroom today. If she wants to impress him, Tagomi’s presentation needs to be perfect. 
+But right now she needs to get moving. She has only an hour to finish preparing her presentation on landfill efficiency. At four AM local time the virtual group will gather and the employee presentations will begin. Tagomi needs to make some final edits. She needs this presentation to stand out. Her professor, Rudolf Cho, will attend the virtual classroom today. If she wants to impress him, Tagomi’s presentation needs to be perfect.
+
+
+Core Concepts for This Scenario
+-------------------------------
+
+Student as employee
+Economic model of education (user pays)
+Global emphasis for educational services
+

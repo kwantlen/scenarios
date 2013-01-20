@@ -37,4 +37,10 @@ She notices an item on the news scroll: today is the hundredth annniversary of t
 Juliana taps the timeline on the wall display, drags a waypoint to it from the map, and places her order at the café. Thinking of the unfamiliar and the improbable, she gets moving, hoping she can make it to the café in time to meet Tagomi for breakfast.
 
 
+Core Concepts for This Scenario
+-------------------------------
+
+Student as learner
+Social support for education
+Local emphasis for educational services
 
