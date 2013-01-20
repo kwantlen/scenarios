@@ -1,7 +1,7 @@
 Frank’s Scenario
 ================
 
-A broad shift in global and local economics is underway. The turbulence of unconstrained markets has been harnessed, finally, by industrial movements focused on regional efficiency and autonomy. In Canada, individual provinces control their natural resources and corporate practices. The water wars continue but are contained regionally. Global warming has brought more drought, but also a greater focus on regional solutions. Health care and educational services are also regionally focused and are delivered through corporate partners. Students integrate their educational activities with their economic contributions. Employment is almost universally required for students to pay for tuition. Educators are typically corporate employees and work mostly through the efficient means of virtual space. In British Columbia, the delivery of educational programs is streamlined and integrated by one large corporate stakeholder, the Cinnadella corporation. Continuing through the spectrum of adult learning, each Cinnadella student works with a sustained and customized learning portfolio. The goals of educators and the initiatives of students are partly integrated with corporate culture, but vestiges of the traditional university culture remain.
+A broad shift in global and local economics is underway. The turbulence of unconstrained markets has been harnessed, finally, by industrial movements focused on regional efficiency and autonomy. In Canada, individual provinces control their natural resources and corporate practices. The water wars continue but are contained regionally. Global warming has brought more drought, but also a greater focus on regional solutions. Health care and educational services are also regionally focused and are delivered through governments working with corporate partners. Students integrate their educational activities with their economic contributions. Employment is almost universally required for students to pay for tuition. Educators are typically corporate employees and work mostly through the efficient means of virtual space. In British Columbia, the delivery of educational programs is streamlined and integrated by one large corporate stakeholder, the Cinnadella corporation. Continuing through the spectrum of adult learning, each Cinnadella student works with a sustained and customized learning portfolio. The goals of educators and the initiatives of students are partly integrated with corporate culture, but vestiges of the traditional university culture remain.
 
 With few exceptions, education is sponsored by Cinnadella in exchange for service to the corporation. The connected themes of career skill and personal development are integrated into the educational system and reflect corporate values. Systematic approaches to lifelong learning serve to enhance the employment prospects of individual students.
 
@@ -17,8 +17,9 @@ Recreation and leisure activity are viewed as important but not foundational to 
 
 In the lower mainland, most people live in large housing complexes with attached medical clinics, care facilities, and schools. Most of these facilities are operated by Cinnadella or its subsidiaries. Virtual travel is the norm for employees at every age. Schools act as nodes for virtual interaction within a wide network of student activities that extend beyond the school itself. The classroom is a meeting place for students and a project space to work on educational projects. Virtual educators help to prioritize, streamline, and develop the experiences of students. Educational models focus on efficiency and performance as well as personal development. For students today, the classroom is CUP, the school is their way of maximizing economic and personal development, and the educator is a virtual guide.   
 
-A Day in the Life of Frank
---------------------------
+
+A Day in the Life of a Student
+------------------------------
 
 Frank Frink and his friend Juliana are reclining on the lumpy sofa in Frank’s dorm room, discussing their upcoming convocation events. Neither really wants to attend these formal celebrations of their achievements, but both of their families have insisted. Educational milsetones, after all, are important. When Frank’s parents came to Canada twenty years ago from Norway to work for the Cinnadella’s Fish Farming Group, they brought their socialist ideas about education with them. Although the Frinks are a simple middle class family and unable to pay the exorbitant tuition fees charged by the CUP, Frank’s family encouraged him to work toward qualifying for one of the employer-sponsored seats in the Singh School of Entrepreneurship (SSE). Frank slogged away at his online sales job with Coastal Tourism and earned a sponsored space in the company’s credential program in Advanced Ecotourism. The sponsorship allows him to work four days each week but also to attend school one day a week and on evenings. Frank also qualified for a basic dorm room in the newly-constructed Highcastle Manor. Entirely built from recycled plastics, Highcastle is popular among eco-zealots, but Frank thinks it has a strange, acrid smell – almost as though it was built atop a landfill.
 
@@ -30,10 +31,10 @@ But how much of a community is he moving on from, really? Many of his courses ha
 
 Frank asks Juliana if some of the virtual tutors will be at convocation. She’s not sure; most of them work from home and don’t attend campus much. Besides, it’s quite possible that some of them will have course responsibilities at the same time as convocation. It would be a shame, Frank muses, not to see Dr. Childan, who was a great virtual tutor. He told stories, like Dr. Tagomi, but Childan’s stories were usually about the past, about the ebb and flow of history, about how we repeat so many of our past mistakes without realizing what we are doing. Frank is sure that if Childan is at the convocation he will take pains to point out to everyone that it is the hundredth anniversary of the Pearl Harbor attacks. It’s one of Childan’s favorite stories: how the Americans never imagined an attack was possible, how they ignored the warning signs, and how they were eventually devastated by the precise planning of the Japanese. Juliana likes that story too. In fact, she posted the famous Schelling quotation about the attack as a persistent post on her wall display. Every morning, after the display wakes her and scrolls through the trajectory of her day, Juliana sees the last, insistent reminder. It says:
 
-     “There is a tendency in our planning to confuse the unfamiliar with the improbable. 
+     There is a tendency in our planning to confuse the unfamiliar with the improbable. 
      The contingency we have not considered seriously looks strange; 
      what looks strange is thought improbable; 
-     what is improbable need not be considered seriously.”
+     what is improbable need not be considered seriously.
 
 Frank is not sure how the next phase of his life will unfold. He doesn’t know how he will pay off his educational debt, and he isn’t sure he wants to work for Cinnadella for the rest of his life. But at least he has choices, and a curious temperament, and after tomorrow a credential that will set him on his way. He lies back, gazes at the ceiling, and wonders about his future.
 
@@ -42,6 +43,6 @@ Core Concepts for This Scenario
 -------------------------------
 
 Student as student (traditional role)
-Economic model of education (user pays)
+Hybrid model of education (user pays, with some social support)
 Local emphasis for educational services
-
+Technology as core feature of education

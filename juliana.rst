@@ -18,8 +18,8 @@ Recreation and leisure activity are viewed as foundational to personal developme
 In the lower mainland, most people live in large housing complexes with attached medical clinics, care facilities, and schools. A well-developed transportation infrastructure provides for self-driving vehicles, an advanced light rail system, and person-powered bikes. Both personal and public transportation provide a full complement of digital services. With the fossil fuel crises of the twenties now well behind us, both local and international travel are the norm for learners at every age. Schools act as nodes for interaction within a wide network of learner activities that extend beyond the school itself. The classroom is a meeting place and project space for learners to bring together their diverse activities and to share with peers. The educator as facilitator helps to develop and nurture the experiences of learners. Educational models have moved beyond the old hierarchies of instructor authority and expertise. For learners today, the classroom is the world, the school is their way of traveling through that world, and the facilitator is a traveling companion.   
 
 
-A Day in the Life of Juliana
-----------------------------
+A Day in the Life of a Learner
+------------------------------
 
 Juliana is woken by the chime of her alarm. The blinds begin to modulate the incoming light, the room grows brighter. She swings her feet to the floor, rises from the bed, and checks the wall display. Three meetings are listed there: one with her cohort at LMU, one with her project partner, and one with her fitness group. She gazes outside, searches the sky for signs of rain, and smiles in anticipation of yet another unseasonably warm day. The sands at Boundary Bay will be dry again today, and she looks forward to spending time at the shore with her friends from LMU. Perhaps they will finish stage two of the desalination study by the end of the afternoon. Juliana thinks of the weeks ahead – publishing, presenting, traveling – and hopes that her work on the study will be finished soon. After all, her trip to Patagonia is on the horizon and she hasn’t yet begun to finalize her plans. Six months in the mountains is not the kind of thing you can just show up for.
 
@@ -29,10 +29,10 @@ Four interconnected careers in business and ecology have unfolded in her life, a
 
 She notices an item on the news scroll: today is the hundredth annniversary of the Pearl Harbor attack. She taps the item, scans the details, and pauses at a quotation that catches her eye. It’s from an old book about the attack, written by a scholar now long dead. As Juliana reads, she finds in the quotation a kind of wisdom. It says:
 
-     “There is a tendency in our planning to confuse the unfamiliar with the improbable. 
+     There is a tendency in our planning to confuse the unfamiliar with the improbable. 
      The contingency we have not considered seriously looks strange; 
      what looks strange is thought improbable; 
-     what is improbable need not be considered seriously.”
+     what is improbable need not be considered seriously.
 
 Juliana taps the timeline on the wall display, drags a waypoint to it from the map, and places her order at the café. Thinking of the unfamiliar and the improbable, she gets moving, hoping she can make it to the café in time to meet Tagomi for breakfast.
 
@@ -41,6 +41,6 @@ Core Concepts for This Scenario
 -------------------------------
 
 Student as learner
-Social support for education
+Social funding for education
 Local emphasis for educational services
-
+Technology as core feature of education
