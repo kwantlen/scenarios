@@ -186,7 +186,7 @@ time.
 Core Concepts for This Scenario
 -------------------------------
 
-Student as client
-Stratified funding for education (niche programs)
-Global emphasis for educational services
-Technology as core feature of education
+* Student as client
+* Stratified funding for education (niche programs)
+* Global emphasis for educational services
+* Technology as core feature of education

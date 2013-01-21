@@ -175,7 +175,7 @@ way. He lies back, gazes at the ceiling, and wonders about his future.
 Core Concepts for This Scenario
 -------------------------------
 
-Student as student (traditional role)
-Hybrid model of education (user pays, with some social support)
-Local emphasis for educational services
-Technology as core feature of education
+* Student as student (traditional role)
+* Hybrid model of education (user pays, with some social support)
+* Local emphasis for educational services
+* Technology as core feature of education

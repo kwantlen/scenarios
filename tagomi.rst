@@ -193,7 +193,7 @@ him, Tagomi’s presentation needs to be perfect.
 Core Concepts for This Scenario
 -------------------------------
 
-Student as employee
-Personal funding for education (through employment)
-Global emphasis for educational services
-Technology as core feature of education
+* Student as employee
+* Personal funding for education (through employment)
+* Global emphasis for educational services
+* Technology as core feature of education

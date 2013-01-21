@@ -175,5 +175,7 @@ Tagomi for breakfast.
 Core Concepts for This Scenario 
 -------------------------------
 
-Student as learner Social funding for education Local emphasis for educational
-services Technology as core feature of education
+* Student as learner 
+* Social funding for education 
+* Local emphasis for educational services 
+* Technology as core feature of education
