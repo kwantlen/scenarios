@@ -87,8 +87,8 @@ encouraged to pursue leisure activities and to integrate those activities into
 their daily schedules. The health crises of the twenties and thirties — when
 the lives of millions of people were shortened by preventable diseases of
 lifestyle — have mostly been replaced by broad social initiatives that
-facilitate health and leisure activities in local communities. However, health
-some health challenges persist: ‘Technology attachment disorder’ (TAD) is still
+facilitate health and leisure activities in local communities. However, some
+health challenges persist: ‘Technology Attachment Disorder’ (TAD) is still
 evident in about 20 percent of the population in British Columbia. The main
 symptom of TAD — an inability to communicate face-to-face — has led to many new
 treatment strategies, but our progress has been slow and the problem persists.
@@ -144,7 +144,7 @@ assessments in this way since she was a teenager in Oslo, and now that she’s
 Four interconnected careers in business and ecology have unfolded in her life,
 and each step along these paths has brought her closer to herself, her family,
 and to the society in which she lives. Still, there’s much more to do, much
-more to see. Her boys, Dean and Josh, are now well along their own paths,
+more to see. Her boys, Frank and Robert, are now well along their own paths,
 making their way through service learning projects, building careers in design
 and urban planning, soaking up experiences the way that shore plants at
 Boundary Bay flourish with the incoming tide. Juliana pauses, remembers her
@@ -167,7 +167,7 @@ of wisdom. It says:
      not be considered seriously.
 
 Juliana taps the timeline on the wall display, drags a waypoint to it from the
-map, and places her order at the café. Thinking of the unfamiliar and the
+map, and places her order at the Cinnadella café. Ruminating about the unfamiliar and the
 improbable, she gets moving, hoping she can make it to the café in time to meet
 Tagomi for breakfast.
 
