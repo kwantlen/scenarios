@@ -6,7 +6,7 @@ markets continues but is mediated by broad agreement about the provision of
 basic human needs. The landscape of education is still adjusting to the
 Equitable Acquisition to Education Treaty (EAET), signed my most nations in
 2035. The treaty mandates that most post-secondary education will not be funded
-      from tax dollars. 
+from tax dollars. 
 
 The scrabbling of nations and corporations for control of natural resources
 continues. Health care and educational initiatives are focused on global
@@ -14,35 +14,35 @@ approaches that emphasize collaboration between governments and the corporate
 sphere. In British Columbia, the delivery of educational programs is stratified
 based on economics. Post-EAET multinational corporations, such as Cinnadella,
 provide bursary programs for employees and are directly involved in the
-delivery of post-secondary education to their student employees. Employees of
-these multinationals thus have relatively cost-effective access to
+delivery of post-secondary education to their student employees (termed
+_clients_). Employees thus have relatively cost-effective access to
 post-secondary education, but those not so lucky to be employed pay exorbitant
-tuition fees. In many ways, corporations have assumed the role that governments
-once played in funding education. Revenues to support such funding are now
-collected by way of employment as opposed to taxation, but otherwise the
-situation is similar.
+tuition fees. In many ways, corporations have supplanted the role that
+governments once played in funding education. Revenues to support such funding
+are now collected by way of employment as opposed to taxation, but otherwise
+the situation is similar.
 
 Technological change has transformed the delivery of educational services.
-Interactive technology platforms provide widespread opportunities for the
-integration of educational systems around the world and provide opportunities
-for widespread institutional and corporate collaboration. Educational clients
-travel seamlessly across national borders. Many post-secondary institutions are
+Interactive technology platforms offer opportunities for the integration of
+educational systems around the world and provide opportunities for widespread
+institutional and corporate collaboration. Educational clients travel
+seamlessly across national borders. Many post-secondary institutions are
 integrated into massive communities based on the alignment of specialized
 programming (MIT and India Institute of Technology, for example, which formed a
 single unit in 2032). Linkages to multinational corporations such as Cinnadella
-are the norm, and are required for economic viability. Various configurations
-exist, but each shares the common element of stratification and global reach.
-At the same time, global universities constantly seek ways to anticipate niche
-trends and to work with industry to develop programs to meet these changing
-needs.
+are the norm and are required for individual economic viability. Various
+configurations exist, but each shares the common element of stratification and
+global reach.  At the same time, global universities constantly seek ways to
+anticipate niche trends and to work with industry to develop programs to
+address changing needs.
 
-To meet the demands of clients and their employers, educational offerings are
-increasingly customized. Universities assess students only within the specific
-context of an employment outcome. Credentialing structures award designations
-based on individually negotiated outcomes (involving active employer
-involvement) as opposed to predetermined programs or degrees. Employer-specific
-credentials are common (the Cinnadella Bachelor of Web Development, for
-example).
+Educational offerings are increasingly customized to meet the demands of
+clients and their employers. Universities assess students only within the
+specific context of an employment outcome. Credentialing structures award
+designations based on individually negotiated outcomes (involving active
+employer involvement) as opposed to predetermined programs or degrees.
+Employer-specific credentials are common (the Cinnadella Bachelor of Web
+Development, for example).
 
 Beginning in kindergarten and continuing through the spectrum of adult
 learning, each client works with a sustained and customized learning portfolio.
@@ -68,27 +68,26 @@ Centre for Corporate Agility and the former Surrey campus is the Centre for
 Business Alignment. The two other former campuses, Cloverdale and Richmond, are
 now transit hubs.
 
-Admissions and transfer services (the former BCCAT, now long gone) are
-integrated globally at Highcastle, a worldwide centre for niche program
-tracking and credentialing. From their offices in Oslo, Highcastle handles the
-complexities of client movement through an integrated, global post-secondary
-system. 
+Admissions and transfer services for educational clients are integrated
+globally at Highcastle, a worldwide centre for niche program tracking and
+credentialing. From their offices in Oslo, Highcastle handles the complexities
+of client movement through an integrated, global post-secondary system. 
 
 Educators widely view their role — at every level — as founded upon principles
 of client support and corporate facilitation. Content is ubiquitous and
-available to employees for free (but at a cost to others). The role of
-educators is to contextualize content within the corporate structure and to
-work with employees to codify their learning by way of practical application.
-Educational portfolios are maintained throughout the life of each employee and
-serve to document their achievements. Grades are tied to employment performance
-and efficiency. Portfolios are the property of the niche provider (Cinnadella,
+available to clients for free (but at a cost to others). The role of educators
+is to contextualize content within the corporate structure and to work with
+clients to codify their learning by way of practical application.  Educational
+portfolios are maintained throughout the life of each client and serve to
+document their achievements. Grades are tied to employment performance and
+efficiency. Portfolios are the property of the niche provider (Cinnadella,
 typically, or one of its competitors).  
 
 Recreation and leisure activity are viewed as foundational to the overall
 health of the society. The health crises of the twenties and thirties — when
 the lives of millions of people were shortened by preventable diseases of
 lifestyle — have mostly been replaced by broad corporate initiatives to reduce
-stress and burnout. ‘Technology attachment disorder’ (TAD) is evident in about
+stress and burnout. ‘Technology Attachment Disorder’ (TAD) is evident in about
 40 percent of the population in British Columbia. The main symptom of TAD — an
 inability to communicate face-to-face — is a consequence of the imperative for
 intensive digital engagement and virtual activity. Thus, while technology is a
@@ -112,7 +111,7 @@ A Day in the Life of a Client
 -----------------------------
 
 Robert Childan meanders through the streets of Oslo, ruminating about his
-future. He has just finished highs school and must decide – soon – which of
+future. He has just finished high school and must decide – soon – which of
 many bewildering paths to follow. He enters the gate of Frogner Park, with its
 sculpture garden crowned by the totemic _Monolith_. The horizon beyond is
 dominated by the massive tower of Highcastle, the educational governance
@@ -134,7 +133,7 @@ branches to find a single shimmering leaf to call his own.
 
 He knows this much: he cherishes his friends. Their times together in virtual
 space, in the city, and on the road have been the best moments of his life. He
-wonders about the mess his life would be, were it not for Tagomi and Frank. And
+wonders about the mess his life might be were it not for Tagomi and Frank. And
 yet he knows their paths will diverge – sometime, and probably soon – as they
 each pursue their career trajectories. Even now he can see it happening:
 Robert’s bursary from Cinnadella (his mother works there) is contingent upon
@@ -172,11 +171,11 @@ indeed, in this program he can travel to these places. She reminds him that the
 ISJ program is on Cinnadella’s list of approved curriculum.
 
 They end the visit with Juliana’s suggestion that Robert take the next step:
-talking to a faculty facilitator. He agrees that he will do so, then signs off.
+talking to a program facilitator. He agrees that he will do so, then signs off.
 As his lenses recalibrate to the park with its lovely, totemic sculptures,
 Robert wonders where his friends are on this cold but clear afternoon. He
 resolves to talk to them before they all make decisions. Perhaps they can stay
-together after all.
+together for a little while.
 
 As Robert makes his way out of the park, he glimpses the procession again. They
 are huddled together, moving slowly, and their dark clothing almost blends with
