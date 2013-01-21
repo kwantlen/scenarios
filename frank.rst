@@ -6,7 +6,7 @@ unconstrained markets has been harnessed, finally, by industrial movements
 focused on regional efficiency and autonomy. In Canada, individual provinces
 control their natural resources and corporate practices. The water wars
 continue but are contained regionally. Global warming has brought more drought,
-but also a greater focus on regional solutions. Health care and educational
+but also a greater focus on local solutions. Health care and educational
 services are also regionally focused and are delivered through governments
 working with corporate partners. Students integrate their educational
 activities with their economic contributions. Employment is almost universally
@@ -26,7 +26,7 @@ values. Systematic approaches to lifelong learning serve to enhance the
 employment prospects of individual students.
 
 All former post-secondary institutions in BC were integrated into the
-Cinnadella University Partnership (CUP)  more than 20 years ago. The four
+Cinnadella University Partnership (CUP) more than 20 years ago. The four
 campuses of the former Kwantlen Polytechnic University still serve as
 educational hubs. The former Langley campus serves as CUP’s Centre for
 Desalination and the former Surrey campus is Highcastle Manor, a student
@@ -46,7 +46,7 @@ their educational profiles and to follow career opportunities. CUP’s
 educational programs are focused on market efficiency and industrial
 development but also encourage personal exploration and discovery. The
 historical, cultural and personal themes that traditional universities once
-cherished are somewhat in evidence at CUP but are not foundational to it
+cherished are somewhat in evidence at CUP but are not foundational to its
 purpose.
 
 At CUP, lifelong learning means lifelong integration between education and
@@ -74,11 +74,11 @@ the overall health of the society. Rather, corporate allegiance is the key to
 personal success. The health crises of the twenties and thirties — when the
 lives of millions of people were shortened by preventable diseases of lifestyle
 — have mostly been replaced by broad corporate initiatives to keep students
-involved in productive activities. ‘Technology attachment disorder’ (TAD) is
+involved in productive activities. ‘Technology Attachment Disorder’ (TAD) is
 evident in about 30 percent of the population in British Columbia. The main
 symptom of TAD — an inability to communicate face-to-face — is a consequence of
 the educational imperative for intensive digital engagement and virtual
-activities. Thus, while technology is a cornerstone feature of the delivery of
+activity. Thus, while technology is a cornerstone feature of the delivery of
 educational programs, CUP recognizes that technology immersion cannot be the
 sole method of student participation.
 
@@ -101,10 +101,10 @@ A Day in the Life of a Student
 Frank Nobusuke and his friend Juliana are reclining on the lumpy sofa in
 Frank’s dorm room, discussing their upcoming convocation events. Neither really
 wants to attend these formal celebrations of their achievements, but both of
-their families have insisted. Educational milsetones, after all, are important.
+their families have insisted. Educational milestones, after all, are important.
 When Frank’s parents came to Canada twenty years ago from Norway to work for
-the Cinnadella’s Fish Farming Group, they brought their socialist ideas about
-education with them. Although the Frinks are a simple middle class family and
+the Cinnadella Fish Farming Group, they brought their socialist ideas about
+education with them. Although they are a simple middle class family and
 unable to pay the exorbitant tuition fees charged by the CUP, Frank’s family
 encouraged him to work toward qualifying for one of the employer-sponsored
 seats in the Singh School of Entrepreneurship (SSE). Frank slogged away at his
