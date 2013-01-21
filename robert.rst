@@ -113,7 +113,7 @@ A Day in the Life of a Client
 Robert Childan meanders through the streets of Oslo, ruminating about his
 future. He has just finished high school and must decide – soon – which of
 many bewildering paths to follow. He enters the gate of Frogner Park, with its
-sculpture garden crowned by the totemic _Monolith_. The horizon beyond is
+sculpture garden crowned by the totemic *Monolith*. The horizon beyond is
 dominated by the massive tower of Highcastle, the educational governance
 corporation. The granite facade of Highcastle is incised, above the entrance
 arch, with words that Robert cannot read from where he is standing. But he
