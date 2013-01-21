@@ -34,14 +34,14 @@ Cinnadella’s corporate hub south of the Fraser, and the former Richmond campus
 is the centrepiece of Cinnadella’s School of Design.
 
 Credentialing, admissions, and transfer services are integrated at Cinnadella,
-which handles the complexities of an integrated provincial, federal and global
-post-secondary system. Internationally, broad-based agreements between
-Cinnadella and other corporate institutions allow for online and in-person
-opportunities for employees to build their educational profiles and to follow
-career opportunities. Cinnadella’s educational programs are focused on market
-efficiency and industrial development. The historical, cultural and personal
-themes that traditional universities once cherished are not aspects of the
-programs Cinnadella provides.
+which handles the complexities of a global post-secondary system.
+Internationally, broad-based agreements between Cinnadella and other corporate
+institutions allow for online and in-person opportunities for employees to
+build their educational profiles and to follow career opportunities.
+Cinnadella’s educational programs are focused on market efficiency and
+industrial development. The historical, cultural and personal themes that
+traditional universities once cherished are not aspects of the programs
+Cinnadella provides.
 
 At Cinnadella, lifelong learning means lifelong employment. We’ve learned —
 from the economic upheavals of 2014 and 2019, from the water wars that plagued
@@ -67,10 +67,10 @@ health of the society. Rather, corporate performance is the key to all personal
 success. The health crises of the twenties and thirties — when the lives of
 millions of people were shortened by preventable diseases of lifestyle — have
 mostly been replaced by broad corporate initiatives to reduce stress and
-burnout. ‘Technology attachment disorder’ (TAD) is evident in about 30 percent
+burnout. ‘Technology Attachment Disorder’ (TAD) is evident in about 30 percent
 of the population in British Columbia. The main symptom of TAD — an inability
 to communicate face-to-face — is a consequence of the corporate imperative for
-intensive digital engagement and virtual activities. Thus, while technology is
+intensive digital engagement and virtual activity. Thus, while technology is
 a cornerstone feature of the delivery of educational programs, Cinnadella
 recognizes that technology immersion cannot be the sole method of employment
 participation. However, no alternatives yet exist.
@@ -103,11 +103,11 @@ Highcastle, the educational arm of the Cinnadella Corporation.
 
 Tagomi leans toward the retinal scanner, waits for the system to check for
 outstanding infractions or fines, and logs in. She scans the most recent
-timestamps in her academic passport: 9 hours this week so far. She’s getting
+timestamps in her academic passport: 59 hours this week so far. She’s getting
 closer. Maybe a month more. Someone rolls over in bed in the next room – little
 Frank, maybe, or Juliana. It’s crowded in there with four kids and two small
 beds; no wonder there’s so much jostling and moving about at night. But not for
-much longer, Tagomi thinks. They’ve already come a long way in a few short
+much longer, Tagomi hopes. They’ve already come a long way in a few short
 years: away from the landfill, across the mountains to the city, and into a
 housing hub where they can at least have a chance. Her parents died in the
 shadow of that implacable monstrosity – Cinnadella Corporation Landfill 26 –
@@ -179,7 +179,7 @@ As Tagomi reflected on these words, trying to figure out what they meant – are
 they a message, a puzzle, a directive? – Robert noticed a chess board near the
 window. He gazed at the pieces for a moment, then offered a move. President
 Frink quickly offered a counter-move, and the gathered party joined the game.
-It was fun for Tagomi, a sign of what might her future might hold, a talisman.
+It was fun for Tagomi, a sign of what her future might hold, a talisman.
 She wants more of this – more of the unfamiliar and the improbable.
 
 But right now she needs to get moving. She has only an hour to finish preparing
