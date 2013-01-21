@@ -74,7 +74,7 @@ the overall health of the society. Rather, corporate allegiance is the key to
 personal success. The health crises of the twenties and thirties — when the
 lives of millions of people were shortened by preventable diseases of lifestyle
 — have mostly been replaced by broad corporate initiatives to keep students
-involved in productive activities. ‘Technology Attachment Disorder’ (TAD) is
+involved in productive activities. Technology Attachment Disorder (TAD) is
 evident in about 30 percent of the population in British Columbia. The main
 symptom of TAD — an inability to communicate face-to-face — is a consequence of
 the educational imperative for intensive digital engagement and virtual
