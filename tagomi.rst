@@ -67,7 +67,7 @@ health of the society. Rather, corporate performance is the key to all personal
 success. The health crises of the twenties and thirties — when the lives of
 millions of people were shortened by preventable diseases of lifestyle — have
 mostly been replaced by broad corporate initiatives to reduce stress and
-burnout. ‘Technology Attachment Disorder’ (TAD) is evident in about 30 percent
+burnout. Technology Attachment Disorder (TAD) is evident in about 30 percent
 of the population in British Columbia. The main symptom of TAD — an inability
 to communicate face-to-face — is a consequence of the corporate imperative for
 intensive digital engagement and virtual activity. Thus, while technology is

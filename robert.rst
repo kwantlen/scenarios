@@ -87,7 +87,7 @@ Recreation and leisure activity are viewed as foundational to the overall
 health of the society. The health crises of the twenties and thirties — when
 the lives of millions of people were shortened by preventable diseases of
 lifestyle — have mostly been replaced by broad corporate initiatives to reduce
-stress and burnout. ‘Technology Attachment Disorder’ (TAD) is evident in about
+stress and burnout. Technology Attachment Disorder (TAD) is evident in about
 40 percent of the population in British Columbia. The main symptom of TAD — an
 inability to communicate face-to-face — is a consequence of the imperative for
 intensive digital engagement and virtual activity. Thus, while technology is a
@@ -142,8 +142,8 @@ whatever he would like. He has made deals already, and he is bound by them. He
 thinks there will be many more to come.
 
 Robert passes a small group of elderly park visitors. A woman at the head of
-their procession is holding a sign. It says "In remembrance of those who died
-at Pearl Harbor: 100 years." Robert ambles beyond them, finds a vacant bench,
+their procession is holding a sign. It says “In remembrance of those who died
+at Pearl Harbor: 100 years.” Robert ambles beyond them, finds a vacant bench,
 and sits down. Look, he says to himself, this is not the end of the world. Just
 get started. You never know, it might be fun.
 

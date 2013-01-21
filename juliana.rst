@@ -88,7 +88,7 @@ their daily schedules. The health crises of the twenties and thirties — when
 the lives of millions of people were shortened by preventable diseases of
 lifestyle — have mostly been replaced by broad social initiatives that
 facilitate health and leisure activities in local communities. However, some
-health challenges persist: ‘Technology Attachment Disorder’ (TAD) is still
+health challenges persist: Technology Attachment Disorder (TAD) is still
 evident in about 20 percent of the population in British Columbia. The main
 symptom of TAD — an inability to communicate face-to-face — has led to many new
 treatment strategies, but our progress has been slow and the problem persists.
