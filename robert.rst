@@ -15,7 +15,7 @@ sphere. In British Columbia, the delivery of educational programs is stratified
 based on economics. Post-EAET multinational corporations, such as Cinnadella,
 provide bursary programs for employees and are directly involved in the
 delivery of post-secondary education to their student employees (termed
-_clients_). Employees thus have relatively cost-effective access to
+*clients*). Employees thus have relatively cost-effective access to
 post-secondary education, but those not so lucky to be employed pay exorbitant
 tuition fees. In many ways, corporations have supplanted the role that
 governments once played in funding education. Revenues to support such funding
